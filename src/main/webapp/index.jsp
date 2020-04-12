@@ -2,7 +2,7 @@
 <body>
 <div>
 
-	<h1> Auto Deployer Testing Page !!!</h1>
+	<h1> Auto Deployer 2 Testing Page !!!</h1>
 	<p>
 		Name <input type="text" />
 	</p>
